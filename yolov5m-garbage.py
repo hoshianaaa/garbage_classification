@@ -1,9 +1,12 @@
-# https://huggingface.co/keremberke/yolov5m-garbage
 
 import yolov5
 
 # load model
-model = yolov5.load('keremberke/yolov5m-garbage')
+## https://huggingface.co/keremberke/yolov5m-garbage
+#model = yolov5.load('keremberke/yolov5m-garbage')
+
+# https://huggingface.co/turhancan97/yolov5-detect-trash-classification
+model = yolov5.load('turhancan97/yolov5-detect-trash-classification')
   
 # set model parameters
 model.conf = 0.25  # NMS confidence threshold

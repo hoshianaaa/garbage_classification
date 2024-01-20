@@ -13,7 +13,7 @@ model.multi_label = False  # NMS multiple labels per box
 model.max_det = 1000  # maximum number of detections per image
 
 # set image
-img = 'https://github.com/ultralytics/yolov5/raw/master/data/images/zidane.jpg'
+img = "images/image1.png"
 
 # perform inference
 results = model(img, size=640)

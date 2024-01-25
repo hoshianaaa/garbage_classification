@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=yFx0-_FF_gc
 
 => スチールは磁石で分離する
 
-手で分離するのはペットボトル
+手で分離するのは袋,ペットボトル
 
 # recycleye
 
